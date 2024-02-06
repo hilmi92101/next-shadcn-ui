@@ -11,7 +11,7 @@
       {
         "id": "2",
         "title": "Veg Stir-Fry",
-        "image": "veg_stir_fryi.jpg",
+        "image": "veg_stir_fryi.jpg?v=2",
         "time": 25,
         "description": "A quick and healthy vegetarian stir-fry with fresh vegetables and tofu.",
         "vegan": true
